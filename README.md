@@ -56,7 +56,7 @@ App.jsx:
 
 ```javascript
 import React from 'react';
-Import styles from './App_Styles.css';
+import styles from './App_Styles.css';
 
 class App extends React.Component {
   constructor(props) {
